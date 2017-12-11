@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "express": "^4.15.4"
+  },
+  "name": "my-ajax",
+  "version": "1.0.0",
+  "description": "an ajax module",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lvimhere/my-ajax-module.git"
+  },
+  "author": "levy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvimhere/my-ajax-module/issues"
+  },
+  "homepage": "https://github.com/lvimhere/my-ajax-module#readme"
+}
